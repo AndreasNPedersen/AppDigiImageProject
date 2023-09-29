@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDigi", "WpfAppDigi\WpfAppDigi.csproj", "{A7812BD3-1D27-4F8F-B95C-8D2ECCED7F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecieverJPGManipulator", "RecieverJPGManipulator\RecieverJPGManipulator.csproj", "{FAB32712-CD97-4FF8-9EF8-0DF96EA84DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7812BD3-1D27-4F8F-B95C-8D2ECCED7F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7812BD3-1D27-4F8F-B95C-8D2ECCED7F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7812BD3-1D27-4F8F-B95C-8D2ECCED7F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7812BD3-1D27-4F8F-B95C-8D2ECCED7F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB32712-CD97-4FF8-9EF8-0DF96EA84DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB32712-CD97-4FF8-9EF8-0DF96EA84DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB32712-CD97-4FF8-9EF8-0DF96EA84DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB32712-CD97-4FF8-9EF8-0DF96EA84DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19F1A67-9081-4D16-BCCD-537E45FC887E}
+	EndGlobalSection
+EndGlobal
