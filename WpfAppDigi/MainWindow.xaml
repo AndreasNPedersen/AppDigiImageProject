@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock Name="MainTitle" TextWrapping="Wrap" Margin="186,25,187,347"><Run Language="da-dk" Text="Thumbnail generator" FontSize="40"/></TextBlock>
+        <TextBlock Name="MainTitle" TextWrapping="Wrap" Margin="186,25,187,315"><Run Language="da-dk" Text="Thumbnail generator" FontSize="40"/></TextBlock>
         <Button Content="Upload" HorizontalAlignment="Left" Margin="295,256,0,0" VerticalAlignment="Top" FontSize="20" Height="47" Width="147" Click="Button_Click"/>
         <TextBox Name="EmailBox" FontSize="20" HorizontalAlignment="Left" Margin="241,144,0,0" TextWrapping="Wrap" Text="Email" VerticalAlignment="Top" Width="255" Height="44"/>
 
