@@ -34,7 +34,7 @@ namespace RecieverJPGManipulator
             mail.IsBodyHtml = true;
             smtpClient.Port = 587;
             smtpClient.UseDefaultCredentials = false;
-            smtpClient.Credentials = new System.Net.NetworkCredential("anpe53920@edu.ucl.dk", "Norregaard1!"); //replace password
+            smtpClient.Credentials = new System.Net.NetworkCredential("anpe53920@edu.ucl.dk", "password"); //replace password
             smtpClient.EnableSsl = true;
             smtpClient.Send(mail);
 
